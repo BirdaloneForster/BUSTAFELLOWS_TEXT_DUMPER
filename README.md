@@ -1,0 +1,2 @@
+# BUSTAFELLOWS_TEXT_DUMPER
+我想要把switch版的BUSTAFELLOWS官中移植到PC Steam版上，这是逆向分析得到的解码游戏文本的脚本。
